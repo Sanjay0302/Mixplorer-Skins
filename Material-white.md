@@ -4,7 +4,7 @@ Download [**`Material-White.mit.zip`**](https://github.com/Sanjay0302/Mixplorer-
 
 Then go to MixPlorer App, `don't extract` it anywhere but `just click` on `.zip file`
 
-Then If u want to `change theme colors` as your wish, Then U can do it by `editing` the `HEX color values` in `properties.xml`
+Then If u want to `change theme colors`as  your wish, Then U can do it by `editing` the `HEX color values` in `properties.xml`
 
 If u dont want to `edit` then `follow the below steps`
 
