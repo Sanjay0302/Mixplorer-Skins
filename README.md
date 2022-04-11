@@ -1,5 +1,9 @@
 **`Made By Sanjay0302`**
 ---------------
+If U know how to import theme, then download any one of the file [**`Material-grey.mit`**](https://github.com/Sanjay0302/Mixplorer-Skins/raw/main/Material-Grey.mit)  or [**`Material-white.mit`**](https://github.com/Sanjay0302/Mixplorer-Skins/raw/main/Material-White.mit)  and start importing to mixplorer
+and u can skip below steps
+
+------------
 **What Theme do u Want**
 ---------------------
 First `download` **`.zip`** files from below link 
