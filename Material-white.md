@@ -12,7 +12,7 @@ Now `remove .zip` extension and the file name should look like **`Material-white
 
 After this, click on **`Material-white.mit`**
 
-And select **`Import`** 
+And select [**`Import`**](https://user-images.githubusercontent.com/90672297/162694918-b6cb8ac2-7409-4faf-8fe8-75e686d5cb56.png)
 
 --------------------------------
 The Theme Looks Like
