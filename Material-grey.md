@@ -8,7 +8,7 @@ Then If u want to `change theme colors` as your wish, Then U can do it by `editi
 
 If u dont want to `edit` then `follow the below steps`
 
-Now `remove .zip` extension and the file name should look like **`Material-grey.mit`**
+Now `remove .zip` by renaming extension and the file name should look like **`Material-grey.mit`**
 
 After this, click on **`Material-grey.mit`**
 
