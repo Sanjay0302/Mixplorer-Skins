@@ -8,8 +8,8 @@ and u can skip below steps
 ---------------------
 First `download` **`.zip`** files from below link 
 
-For `Grey Theme`       : [**`Material-grey theme`**](https://github.com/Sanjay0302/Mixplorer-Skins/blob/main/Material-grey.md)  
-For `White Theme`      : [**`Material-white theme`**](https://github.com/Sanjay0302/Mixplorer-Skins/blob/main/Material-white.md)
+For `Grey Theme`       : [**`Material-grey theme`**](https://github.com/Sanjay0302/Mixplorer-Skins/blob/main/Material-grey.md#material-grey-theme)  
+For `White Theme`      : [**`Material-white theme`**](https://github.com/Sanjay0302/Mixplorer-Skins/blob/main/Material-white.md#material-white-theme)
 
 -------------------------------------------------------------------------------
 The Grey Theme Looks Like
