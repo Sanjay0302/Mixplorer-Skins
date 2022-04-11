@@ -4,13 +4,13 @@ Download [**`Material-grey.mit.zip`**](https://github.com/Sanjay0302/Mixplorer-S
 
 Then go to MixPlorer App, `don't extract` it anywhere but `just click` on `.zip file`
 
-Then If u want to `change theme colors` as your wish, Then U can do it by `editing` the `HEX color values` in `properties.xml`
+Then If u want to `change theme colors` as your wish, That U can do it by `editing` the `HEX color values` in `properties.xml`
 
-If u dont want to `edit` then `follow the below steps`
+If u don't want to `edit` then `follow the below steps`
 
-Now `remove .zip` by renaming extension and the file name should look like **`Material-grey.mit`**
+Now `remove .zip`extension by renaming the initial `zip file` and the file name should look like **`Material-grey.mit`**
 
-After this, click on **`Material-grey.mit`**
+After renaming click on **`Material-grey.mit`** file
 
 And select [**`Import`**](https://user-images.githubusercontent.com/90672297/162691926-b452499a-6f71-45dc-a1d6-3d08b336488d.png) 
 
