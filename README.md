@@ -4,12 +4,9 @@ If U know how to import theme, then download any one of the file [**`Material-gr
 and u can skip below steps
 
 -------------------
-Use This files If u want a Nice prebuilt_settings for the app just like images shown below
--------------
-1. [`Prebuilt_setting.mic`](https://github.com/Sanjay0302/Mixplorer-Skins/releases/download/v.1.1.1/Prebuilt_settings.mic)
-2. [`Prebuilt_Bookmarks_setting.mic`](https://github.com/Sanjay0302/Mixplorer-Skins/releases/download/v.1.1.1/Prebuilt_Bookmarks_Settings.mic)
+Use This [`.mic`](https://github.com/Sanjay0302/Mixplorer-Skins/releases/download/v.1.1.1/Prebuilt_settings.mic) file If u want a Nice [`Prebuilt_setting`](https://github.com/Sanjay0302/Mixplorer-Skins/releases/download/v.1.1.1/Prebuilt_settings.mic)for the app just like images shown below
 
-Then miport the `.mit` Files attached to get your final theme like below images
+Then import the below attached `.mit` files  to get your final theme like below images
 
 ------------
 **What Theme do u Want**
