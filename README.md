@@ -3,6 +3,14 @@
 If U know how to import theme, then download any one of the file [**`Material-grey.mit`**](https://github.com/Sanjay0302/Mixplorer-Skins/raw/main/Material-Grey.mit)  or [**`Material-white.mit`**](https://github.com/Sanjay0302/Mixplorer-Skins/raw/main/Material-White.mit)  and start importing to mixplorer
 and u can skip below steps
 
+-------------------
+Use This files If u want a Nice prebuilt_settings for the app just like images shown below
+-------------
+1. [`Pebuilt_setting.mic`](https://github.com/Sanjay0302/Mixplorer-Skins/releases/download/v.1.1.1/Prebuilt_settings.mic)
+2. [`Pebuilt_Bookmarks_setting.mic`](https://github.com/Sanjay0302/Mixplorer-Skins/releases/download/v.1.1.1/Prebuilt_Bookmarks_Settings.mic)
+
+Then miport the `.mit` Files attached to get your final theme like below images
+
 ------------
 **What Theme do u Want**
 ---------------------
