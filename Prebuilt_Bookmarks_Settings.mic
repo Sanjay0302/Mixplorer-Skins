@@ -1,0 +1,130 @@
+{
+  "title": "MiXplorer",
+  "package": "com.mixplorer.silver",
+  "date": "13\/04\/2022 23:16:09",
+  "type": 1,
+  "db": {
+    "uris": [
+      {
+        "pid": 14,
+        "uri": "\/data\/data\/com.mixplorer.silver\/home",
+        "title": "Home",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "\/storage\/emulated\/0",
+        "title": "Internal storage",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/recent",
+        "title": "Recent files",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/trash",
+        "title": "Recycle bin",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "\/*1649861068926",
+        "title": "Media",
+        "user": "*fldr*",
+        "secret": "TCiOdfjj8Bi4fmdDQIbFZQ",
+        "properties": "##"
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/document",
+        "title": "Document",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/image",
+        "title": "Image",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/video",
+        "title": "Video",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/audio",
+        "title": "Audio",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/archive",
+        "title": "Archive",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "\/*1649861142772",
+        "title": "System Softwares ",
+        "user": "*fldr*",
+        "secret": "TCiOdfjj8Bi4fmdDQIbFZQ",
+        "properties": "##"
+      },
+      {
+        "pid": 14,
+        "uri": "\/",
+        "title": "Root",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/app",
+        "title": "App",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/all",
+        "title": "All Files",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/apk",
+        "title": "APK",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      }
+    ]
+  }
+}
