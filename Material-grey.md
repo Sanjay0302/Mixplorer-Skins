@@ -10,7 +10,7 @@ If u don't want to `edit` then `follow the below steps`
 
 Now `remove .zip`extension by renaming the initial `zip file` and the file name should look like **`Material-grey.mit`**
 
-After renaming click on **`Material-grey.mit`** file
+After renaming click on [**`Material-grey.mit`**](https://github.com/Sanjay0302/Mixplorer-Skins/raw/main/Material-Grey.mit) file
 
 And select [**`Import`**](https://user-images.githubusercontent.com/90672297/162691926-b452499a-6f71-45dc-a1d6-3d08b336488d.png) 
 
