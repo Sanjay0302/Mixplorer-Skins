@@ -8,7 +8,7 @@ Then If u want to `change theme colors`as  your wish, That U can do it by `editi
 
 If u don't want to `edit` then `follow the below steps`
 
-Now remove`.zip` extension by renaming the file, and after renaming the file name should look like **`Material-white.mit`**
+Now remove`.zip` extension by renaming the file, and after renaming the file name should look like [**`Material-white.mit`**](https://github.com/Sanjay0302/Mixplorer-Skins/raw/main/Material-White.mit)
 
 After renaming, click on **`Material-white.mit`**
 
